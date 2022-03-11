@@ -1,0 +1,13 @@
+/home/othmane/Downloads/student/src/main/java/com/student/service/interfaces/TeacherService.java
+/home/othmane/Downloads/student/src/main/java/com/student/dao/GenericDAO.java
+/home/othmane/Downloads/student/src/main/java/com/student/model/Admin.java
+/home/othmane/Downloads/student/src/main/java/com/student/controller/HomeController.java
+/home/othmane/Downloads/student/src/main/java/com/student/model/User.java
+/home/othmane/Downloads/student/src/main/java/com/student/model/Teacher.java
+/home/othmane/Downloads/student/src/main/java/com/student/shared/WebAppInitializer.java
+/home/othmane/Downloads/student/src/main/java/com/student/App.java
+/home/othmane/Downloads/student/src/main/java/com/student/shared/WebMvcConfig.java
+/home/othmane/Downloads/student/src/main/java/com/student/shared/PersistenceJPAConfig.java
+/home/othmane/Downloads/student/src/main/java/com/student/repository/TeacherRepository.java
+/home/othmane/Downloads/student/src/main/java/com/student/service/implementation/TeacherServiceImp.java
+/home/othmane/Downloads/student/src/main/java/com/student/controller/StudentController.java
